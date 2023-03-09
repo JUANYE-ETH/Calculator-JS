@@ -97,7 +97,8 @@ body {
       font-size: 2rem;
       margin-bottom: 10px;
       padding-right: 3px;
-      border-radius: 100px
+      border-radius: 100px;
+      background-color: lightgray;
     }
     
     .button {
@@ -105,6 +106,7 @@ body {
       height: 75px;
       padding: 12px;
       width: 43px;
+      touch-action: manipulation;
     }
     
     .button-row {
