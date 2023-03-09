@@ -86,11 +86,11 @@ body {
     background-color: #0b162a;
   }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 480px) {
     .container {
       max-width: 300px;
       /* grid-template-columns: repeat(2, 1fr); */
-      grid-gap: 5px;
+      /* grid-gap: 5px; */
     }
     
     #screen {
