@@ -20,7 +20,6 @@ function addOperator(op) {
 
 
 function calculate() {
-    debugger;
     switch (operator) {
         case '+':
             result = parseInt(num1.replace(/,/g, '')) + parseInt(num2.replace(/,/g, ''));
