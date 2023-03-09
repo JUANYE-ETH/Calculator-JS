@@ -102,8 +102,9 @@ body {
     
     .button {
       font-size: 2rem;
-      height: 100px;
-      padding: 25px;
+      height: 75px;
+      padding: 12px;
+      width: 43px;
     }
     
     .button-row {
