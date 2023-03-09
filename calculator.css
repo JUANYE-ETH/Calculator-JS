@@ -110,6 +110,15 @@ body {
     }
 
     .clear-button {
+      font-size: 1.5rem;
+      padding: 15px;
+      border: none;
+      border-radius: 5px;
+      background-color: #c83803;
+      color: #fff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+      transition: background-color 0.3s ease;
       touch-action: manipulation;
     }
     
