@@ -108,6 +108,10 @@ body {
       width: 43px;
       touch-action: manipulation;
     }
+
+    .clear-button {
+      touch-action: manipulation;
+    }
     
     .button-row {
       flex-wrap: wrap;
